@@ -1,0 +1,3 @@
+Here are numbers: 12.5 45 78.333
+More numbers: 90.1 34.7 21
+And more: 56 89.999 23.456
